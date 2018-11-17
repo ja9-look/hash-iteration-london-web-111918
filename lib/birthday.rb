@@ -6,7 +6,7 @@
 
 def happy_birthday(birthday_kids)
   # add your code snippet here!
-  birthday_kids.each do |key, age| puts "#{kid}: #{age}"
+  birthday_kids.each do |key, age| puts "#{key}: #{value}"
   
 end
 
